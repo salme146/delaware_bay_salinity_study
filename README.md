@@ -1,2 +1,3 @@
-# delaware_bay_salinity_study
+# Delaware Bay estuary Salinity Study
+
 Salinity study for Delaware Bay
